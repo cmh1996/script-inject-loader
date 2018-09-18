@@ -1,0 +1,11 @@
+{
+  "name": "script-inject-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chambers1996",
+  "license": "ISC"
+}
