@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "chambers1996",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "loader-utils": "^1.1.0",
+    "uglify-es": "^3.3.9"
+  }
 }
